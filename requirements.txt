@@ -2,10 +2,11 @@ streamlit
 pandas
 requests
 joblib
-scikit-learn
-tensorflow==2.12.0
+scikit-learn==1.2.2
+tensorflow-cpu==2.12.0
 keras==2.12.0
 mysql-connector-python
+
 
 
 
